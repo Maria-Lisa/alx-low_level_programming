@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 
-/* Blank comment */
 int main(void)
+/* main function */	
 {
 
 /* local variable definition */
