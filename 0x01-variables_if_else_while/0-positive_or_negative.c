@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 int main(void)
-/* main function */	
+/* main function */
 {
 
 /* local variable definition */
